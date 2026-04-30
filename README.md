@@ -21,3 +21,8 @@ This project demonstrates an end-to-end data pipeline specifically designed for 
 - **dbt**: For data transformation and modeling.
 - **Python**: For data generation scripts.
 
+Author:
+Name: Sai Krishna Puvvalla
+PH: +1 5736471400
+Email 📧: saikrishnapuvvalla@gmail.com
+LinkedIn 🔗 : https://www.linkedin.com/in/saikrishnap8978/
